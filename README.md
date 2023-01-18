@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hemanthp10
-- 👀 I’m interested in becoming a data scientist
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Hemanth P
+- 👀 I’m interested in becoming a DevOps Engineer
+- - 🌱 I’m well versed in Linux, git, shell scripting, Jenkins, Docker, AWS, Microsoft Azure, Terraform, Kubernetes, Ansible.
 - 📫 How to reach me hemanthp.10899@gmail.com
 
 <!---
